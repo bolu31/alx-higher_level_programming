@@ -8,7 +8,3 @@ def add(a, b):
         The return value. a + b
     """
     return (a + b)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
